@@ -1,0 +1,25 @@
+---
+abstract: 'No-frills overload wrapper around Marpa::R2::Scanless'
+author:
+  - 'Paul Bennett <paul.w.bennett@gmail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.120921'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Grammar-Marpa
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Carp: 0
+  Marpa::R2: 2.074000
+  Test::More: 0
+  perl: 5.018000
+version: 1.000
