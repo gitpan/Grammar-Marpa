@@ -1,5 +1,5 @@
 ---
-abstract: 'No-frills overload wrapper around Marpa::R2::Scanless'
+abstract: 'Overload wrapper around Marpa::R2::Scanless'
 author:
   - 'Paul Bennett <paul.w.bennett@gmail.com>'
 build_requires:
@@ -22,4 +22,4 @@ requires:
   Marpa::R2: 2.074000
   Test::More: 0
   perl: 5.018000
-version: 1.000
+version: 2.000

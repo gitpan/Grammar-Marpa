@@ -1,5 +1,5 @@
 {
-   "abstract" : "No-frills overload wrapper around Marpa::R2::Scanless",
+   "abstract" : "Overload wrapper around Marpa::R2::Scanless",
    "author" : [
       "Paul Bennett <paul.w.bennett@gmail.com>"
    ],
@@ -40,5 +40,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.000"
+   "version" : "2.000"
 }
